@@ -2,9 +2,9 @@ package server
 
 import (
 	"net/http"
-	"websocket-proxy/connection"
 
 	"websocket-proxy/config"
+	"websocket-proxy/connection"
 	"websocket-proxy/hub"
 	"websocket-proxy/proxy"
 
