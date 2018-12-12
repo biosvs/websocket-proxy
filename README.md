@@ -5,7 +5,7 @@ This is proxy for debugging any websocket interactions.
 ### How to build
 [Go](http://golang.org/) version 1.11+ required.
 
-    git clone . && cd websocket-proxy && go build websocket-proxy
+    git clone https://github.com/biosvs/websocket-proxy.git && cd websocket-proxy && go build -o websocket-proxy
     
 ### How to use
     $ ./websocket-proxy --help
